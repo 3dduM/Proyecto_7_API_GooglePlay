@@ -1,0 +1,20 @@
+{
+  "record": {
+    "nombre_app": "Photo Editor & Candy Camera & Grid & ScrapBook",
+    "categoria_app": "ART_AND_DESIGN",
+    "rating_app": 4.1,
+    "cantidad_reviews": 159.0,
+    "tamano_app": "19M",
+    "instalaciones": "10000",
+    "tipo_app": "Free",
+    "precio_app": 0.0,
+    "clasificacion_edad": "Everyone",
+    "generos_app": "Art & Design",
+    "ultima_actualizacion": "January 7, 2018",
+    "version_actual": "1.0.0",
+    "version_android": "4.0.3 and up",
+    "instalaciones_num": 10000.0,
+    "tamano_mb": 19.0,
+    "instalaciones_rango": "nicho"
+  }
+}
